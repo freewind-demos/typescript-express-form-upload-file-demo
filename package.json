@@ -5,7 +5,7 @@
   "dependencies": {
     "express": "latest",
     "express-fileupload": "latest",
-    "typescript": "latest"
+    "typescript": "5.3.3"
   },
   "devDependencies": {
     "@types/express": "latest",
